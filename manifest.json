@@ -1,0 +1,11 @@
+{
+    "name": "Weather Amherst",
+    "version": "1.0.0",
+    "description": "latest weather information in Amherst",
+    "manifest_version": 3,
+    "author": "Hoa La",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Current Weather Amherst"
+    }
+}
